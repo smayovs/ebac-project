@@ -60,7 +60,6 @@ header .header__img {
 .products__img {
   width: 200px;
   margin-bottom: 15px;
-  max-height: 200px;
 }
 .products__title {
   font-size: 1.2em;
